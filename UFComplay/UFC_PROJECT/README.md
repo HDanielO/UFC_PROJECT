@@ -1,2 +1,0 @@
-# UFC_PROJECT
- 
