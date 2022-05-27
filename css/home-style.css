@@ -150,7 +150,7 @@ padding-bottom: 1.2em;
   margin: 0 auto;
   margin-bottom: 0.5em;
   min-height: 250px;
-  background: url(/images/UF\ COMPLAY.png) , linear-gradient(#5a189a, rgba(187, 75, 243, 0.363));
+  background: url(images/UF\ COMPLAY.png) , linear-gradient(#5a189a, rgba(187, 75, 243, 0.363));
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -158,19 +158,19 @@ padding-bottom: 1.2em;
 
 
 .slot-card:nth-of-type(1){
-  background: url(/images/Big_Brother_Naija_Season_6_Logo.jpg) , linear-gradient(#5a189a, rgba(187, 75, 243, 0.363));
+  background: url(images/Big_Brother_Naija_Season_6_Logo.jpg) , linear-gradient(#5a189a, rgba(187, 75, 243, 0.363));
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .slot-card:nth-of-type(2){
-  background: url(/images/fate_cards.jpg) , linear-gradient(#5a189a, rgba(187, 75, 243, 0.363));
+  background: url(images/fate_cards.jpg) , linear-gradient(#5a189a, rgba(187, 75, 243, 0.363));
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .slot-card:nth-of-type(3){
-  background: url(/images/predict.jpg) , linear-gradient(#5a189a, rgba(187, 75, 243, 0.363));
+  background: url(images/predict.jpg) , linear-gradient(#5a189a, rgba(187, 75, 243, 0.363));
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
